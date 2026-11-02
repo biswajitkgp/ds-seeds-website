@@ -25,17 +25,17 @@
 ### Decisions made (by Biswajit)
 - New **private** GitHub repo; sync after each finished deliverable or significant part of a large one.
 - Questionnaire is client-specific (D S Seeds), .docx format, branded Embetronix.
+- Letterhead stays brand-name only (no Embetronix contact details or logo) — decided 2026-11-02.
 - Client is Bengali: a separate Bangla .docx (Bangla text + English technical terms) accompanies the English one.
 - No e-commerce; informational site **with prices**.
 - Business registration section is India-specific.
 - Questionnaire focuses on content; excludes budget/timeline, hosting/domain technicalities, SEO, AMC. Legal/policy pages (privacy, terms, refund, etc.) are included.
 
 ### Open questions / pending inputs
-- Embetronix Technologies contact details (address, phone, email, website) and logo for the questionnaire letterhead — currently only the brand name appears.
-- Bangla wording to be proof-read by Biswajit before sending to the client.
+- Bangla wording: Biswajit is proof-reading; await his corrections before sending to the client.
 
 ### Next steps
-1. Add Embetronix contact details / logo to both questionnaires if Biswajit wants them (v1.1).
+1. Apply Biswajit's Bangla proof-read corrections (if any) → v1.1 of the _BN file.
 2. Send the questionnaire to the client; collect responses and assets.
 3. Analyse responses → produce sitemap, content plan and technical architecture proposal (stack, hosting, CMS for newsletters/prices).
 
