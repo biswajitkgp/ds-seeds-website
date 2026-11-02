@@ -1,6 +1,8 @@
 # Handover — D S Seeds Website
 
-**How to resume (any computer, any Claude account):** clone this repository, then ask Claude: "Read CONTEXT.md and HANDOVER.md in this repo and continue the D S Seeds website project." Update this file at every milestone.
+**Repository:** https://github.com/biswajitkgp/ds-seeds-website (private, branch `main`).
+
+**How to resume (any computer, any Claude account):** clone this repository (in a Claude session, attach `biswajitkgp/ds-seeds-website` with push access), then ask Claude: "Read CONTEXT.md and HANDOVER.md in this repo and continue the D S Seeds website project." Update this file at every milestone.
 
 ---
 
@@ -30,7 +32,7 @@
 
 ### Open questions / pending inputs
 - Embetronix Technologies contact details (address, phone, email, website) and logo for the questionnaire letterhead — currently only the brand name appears.
-- GitHub repository not yet pushed: the cloud session had no valid GitHub token to create it. Waiting for Biswajit to create the empty private repo and share `owner/repo`.
+- Bangla wording to be proof-read by Biswajit before sending to the client.
 
 ### Next steps
 1. Add Embetronix contact details / logo to both questionnaires if Biswajit wants them (v1.1).
@@ -40,3 +42,4 @@
 ## Changelog
 - 2026-11-02 — Repo initialised; questionnaire v1.0 created.
 - 2026-11-02 — Bangla questionnaire v1.0 (_BN) created.
+- 2026-11-02 — Pushed to GitHub (biswajitkgp/ds-seeds-website).
