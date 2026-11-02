@@ -7,6 +7,7 @@ Start here: `CONTEXT.md` (project facts and working agreements) and `HANDOVER.md
 ## Regenerating documents
 ```
 npm install docx
-node scripts/build_questionnaire.js
+node scripts/build_questionnaire.js      # English
+node scripts/build_questionnaire_bn.js   # Bangla
 ```
-Output: `docs/01-requirements/DS_Seeds_Website_Requirements_Questionnaire_v<VERSION>.docx`
+Output: `docs/01-requirements/DS_Seeds_Website_Requirements_Questionnaire_v<VERSION>[_BN].docx`
